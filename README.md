@@ -1,5 +1,7 @@
 # Getany
 
+![getany-storefront](https://socialify.git.ci/hridaya423/getany-storefront/image?font=Inter&language=1&logo=https%3A%2F%2Fmedusajs.com%2Fimages%2Fmedusa-logo-black.svg&name=1&owner=1&pattern=Signal&stargazers=1&theme=Light)
+
 ## About
 
 ### Participants
