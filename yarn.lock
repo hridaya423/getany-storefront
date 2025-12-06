@@ -907,20 +907,20 @@
   version "6.9.7"
   resolved "https://registry.npmjs.org/@types/qs/-/qs-6.9.7.tgz"
 
-"@types/react-instantsearch-core@*":
-  version "6.26.0"
-  resolved "https://registry.npmjs.org/@types/react-instantsearch-core/-/react-instantsearch-core-6.26.0.tgz"
+"@types/react-instantsearch-core@<7":
+  version "6.26.10"
+  resolved "https://registry.yarnpkg.com/@types/react-instantsearch-core/-/react-instantsearch-core-6.26.10.tgz#30ac8f5c858cd0cb198085956252012b4215df8a"
   dependencies:
     "@types/react" "*"
     algoliasearch ">=4"
     algoliasearch-helper ">=3"
 
-"@types/react-instantsearch-dom@^6.12.3":
-  version "6.12.3"
-  resolved "https://registry.npmjs.org/@types/react-instantsearch-dom/-/react-instantsearch-dom-6.12.3.tgz"
+"@types/react-instantsearch-dom@^6.12.9":
+  version "6.12.9"
+  resolved "https://registry.yarnpkg.com/@types/react-instantsearch-dom/-/react-instantsearch-dom-6.12.9.tgz#5d24ff0a38920ed90abecabcc2862fba730d0fb9"
   dependencies:
     "@types/react" "*"
-    "@types/react-instantsearch-core" "*"
+    "@types/react-instantsearch-core" "<7"
 
 "@types/react@*", "@types/react@17.0.40":
   version "17.0.40"
