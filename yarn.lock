@@ -4991,9 +4991,9 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-country-flag@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.npmjs.org/react-country-flag/-/react-country-flag-3.0.2.tgz"
+react-country-flag@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/react-country-flag/-/react-country-flag-3.1.0.tgz#f0c4c332934a77d3e894ba4800634f7a887e53d4"
 
 react-dom@17.0.2:
   version "17.0.2"
