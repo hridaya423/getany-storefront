@@ -859,9 +859,9 @@
   version "2.0.0"
   resolved "https://registry.npmjs.org/@sideway/pinpoint/-/pinpoint-2.0.0.tgz"
 
-"@stripe/react-stripe-js@^1.7.2":
-  version "1.7.2"
-  resolved "https://registry.npmjs.org/@stripe/react-stripe-js/-/react-stripe-js-1.7.2.tgz"
+"@stripe/react-stripe-js@^4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@stripe/react-stripe-js/-/react-stripe-js-4.0.2.tgz#5d9e9cc4b30ca69c2cc4e883048469b4bcfb8829"
   dependencies:
     prop-types "^15.7.2"
 
