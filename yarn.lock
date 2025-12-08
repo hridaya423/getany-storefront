@@ -510,9 +510,9 @@
     "@tanstack/react-virtual" "^3.0.0-beta.60"
     client-only "^0.0.1"
 
-"@hookform/error-message@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/@hookform/error-message/-/error-message-2.0.0.tgz"
+"@hookform/error-message@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@hookform/error-message/-/error-message-2.0.1.tgz#6a37419106e13664ad6a29c9dae699ae6cd276b8"
 
 "@humanfs/core@^0.19.1":
   version "0.19.1"
