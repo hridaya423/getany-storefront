@@ -931,9 +931,11 @@
   version "4.14.179"
   resolved "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.179.tgz"
 
-"@types/node@*", "@types/node@17.0.21":
-  version "17.0.21"
-  resolved "https://registry.npmjs.org/@types/node/-/node-17.0.21.tgz"
+"@types/node@*", "@types/node@24.10.1":
+  version "24.10.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.10.1.tgz#91e92182c93db8bd6224fca031e2370cef9a8f01"
+  dependencies:
+    undici-types "~7.16.0"
 
 "@types/node@^14.14.31":
   version "14.18.12"
@@ -6941,6 +6943,10 @@ unbox-primitive@^1.1.0:
     has-bigints "^1.0.2"
     has-symbols "^1.1.0"
     which-boxed-primitive "^1.1.1"
+
+undici-types@~7.16.0:
+  version "7.16.0"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-7.16.0.tgz#ffccdff36aea4884cbfce9a750a0580224f58a46"
 
 unique-string@^2.0.0:
   version "2.0.0"
