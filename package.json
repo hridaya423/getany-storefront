@@ -50,7 +50,7 @@
     "@types/react-instantsearch-dom": "^6.12.9",
     "autoprefixer": "^10.4.22",
     "babel-loader": "^10.0.0",
-    "cypress": "^9.5.2",
+    "cypress": "^15.7.1",
     "eslint": "9.39.1",
     "eslint-config-next": "15.5.7",
     "postcss": "^8.5.6",
