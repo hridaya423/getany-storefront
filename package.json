@@ -48,7 +48,7 @@
     "@types/node": "25.0.2",
     "@types/react": "17.0.40",
     "@types/react-instantsearch-dom": "^6.12.9",
-    "autoprefixer": "^10.4.22",
+    "autoprefixer": "^10.4.23",
     "babel-loader": "^10.0.0",
     "cypress": "^15.7.1",
     "eslint": "9.39.1",
