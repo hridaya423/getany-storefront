@@ -52,7 +52,7 @@
     "babel-loader": "^10.0.0",
     "cypress": "^9.5.2",
     "eslint": "9.39.1",
-    "eslint-config-next": "15.5.7",
+    "eslint-config-next": "16.0.10",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.17",
     "typescript": "5.9.3"
