@@ -5773,9 +5773,9 @@ react-is@^16.13.1:
   version "16.13.1"
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
 
-react-query@^3.31.0, react-query@^3.34.16:
-  version "3.34.16"
-  resolved "https://registry.npmjs.org/react-query/-/react-query-3.34.16.tgz"
+react-query@^3.31.0, react-query@^3.39.3:
+  version "3.39.3"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.39.3.tgz#4cea7127c6c26bdea2de5fb63e51044330b03f35"
   dependencies:
     "@babel/runtime" "^7.5.5"
     broadcast-channel "^3.4.1"
