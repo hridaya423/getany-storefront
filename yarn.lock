@@ -1205,9 +1205,9 @@
   version "1.0.4"
   resolved "https://registry.npmjs.org/@oclif/screen/-/screen-1.0.4.tgz"
 
-"@paypal/paypal-js@^9.0.0", "@paypal/paypal-js@^9.0.1":
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/@paypal/paypal-js/-/paypal-js-9.0.1.tgz#2eb6170abfb6b757502bf36e2f7b45d6f2598547"
+"@paypal/paypal-js@^9.0.0", "@paypal/paypal-js@^9.1.0":
+  version "9.1.0"
+  resolved "https://registry.yarnpkg.com/@paypal/paypal-js/-/paypal-js-9.1.0.tgz#df34a6369556c80bdff594b00321f58a387517d1"
   dependencies:
     promise-polyfill "^8.3.0"
 
