@@ -2519,9 +2519,9 @@ csstype@^3.0.2:
   version "3.0.11"
   resolved "https://registry.npmjs.org/csstype/-/csstype-3.0.11.tgz"
 
-cypress@^15.8.2:
-  version "15.8.2"
-  resolved "https://registry.yarnpkg.com/cypress/-/cypress-15.8.2.tgz#685d6e090b1c5f76cb5430eafa21f63b1eded0a6"
+cypress@^15.9.0:
+  version "15.9.0"
+  resolved "https://registry.yarnpkg.com/cypress/-/cypress-15.9.0.tgz#9bcbbfbf3923d8aca7d06990cb174d5ba67e4084"
   dependencies:
     "@cypress/request" "^3.0.10"
     "@cypress/xvfb" "^1.2.4"
