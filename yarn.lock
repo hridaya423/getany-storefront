@@ -1021,17 +1021,17 @@
   version "1.0.4"
   resolved "https://registry.npmjs.org/@oclif/screen/-/screen-1.0.4.tgz"
 
-"@paypal/paypal-js@^9.4.1", "@paypal/paypal-js@^9.5.0":
+"@paypal/paypal-js@^9.5.0":
   version "9.5.0"
   resolved "https://registry.yarnpkg.com/@paypal/paypal-js/-/paypal-js-9.5.0.tgz#d67c697704ae8e9b8b0847ea5e1c126d2280b10c"
   dependencies:
     promise-polyfill "^8.3.0"
 
-"@paypal/react-paypal-js@^9.0.2":
-  version "9.0.2"
-  resolved "https://registry.yarnpkg.com/@paypal/react-paypal-js/-/react-paypal-js-9.0.2.tgz#d38d05b150662349eab3508674d8ca1da653650f"
+"@paypal/react-paypal-js@^9.1.0":
+  version "9.1.0"
+  resolved "https://registry.yarnpkg.com/@paypal/react-paypal-js/-/react-paypal-js-9.1.0.tgz#c124ddc2d8c2e34f630e10dcce5a0b5f3e043961"
   dependencies:
-    "@paypal/paypal-js" "^9.4.1"
+    "@paypal/paypal-js" "^9.5.0"
     "@paypal/sdk-constants" "^1.0.122"
     server-only "^0.0.1"
 
