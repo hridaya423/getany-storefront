@@ -851,9 +851,9 @@
   version "12.2.0"
   resolved "https://registry.npmjs.org/@next/env/-/env-12.2.0.tgz"
 
-"@next/eslint-plugin-next@16.2.2":
-  version "16.2.2"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-16.2.2.tgz#0b09ca0cb660a4e51bc8cf3a8090f79f74a82334"
+"@next/eslint-plugin-next@16.2.3":
+  version "16.2.3"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-16.2.3.tgz#c8a1c0a529854b3e7c04efeca11a681fe5cae0ed"
   dependencies:
     fast-glob "3.3.1"
 
@@ -2970,11 +2970,11 @@ escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
 
-eslint-config-next@16.2.2:
-  version "16.2.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-16.2.2.tgz#5ab9b66b456604d28621cb8ac2f167c9827bbc59"
+eslint-config-next@16.2.3:
+  version "16.2.3"
+  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-16.2.3.tgz#0f271dc631d8dca6cbcdc59fbaab61130e7c8e28"
   dependencies:
-    "@next/eslint-plugin-next" "16.2.2"
+    "@next/eslint-plugin-next" "16.2.3"
     eslint-import-resolver-node "^0.3.6"
     eslint-import-resolver-typescript "^3.5.2"
     eslint-plugin-import "^2.32.0"
